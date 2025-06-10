@@ -13,14 +13,6 @@ Users can mark wishes as completed, edit them, or delete them with a swipe gestu
 - 💾 Data persistence using Room Database
 - 🧹 Simple and user-friendly UI
 
-## 📸 Screenshot
-
-Here’s a preview of the app UI:
-
-![WishList Screenshot](./screenshots/wishlist_screenshot.jpg)
-
-> _Make sure to place the image above in a folder called `/screenshots/` inside your repository._
-
 ## 🛠️ Built With
 
 - **Kotlin** – Programming Language
@@ -59,10 +51,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 🙋‍♂️ Author
 Developed by Rahul Mohite
-
-### ✅ Instructions to Use the Screenshot:
-1. Rename the image you uploaded to: `wishlist_screenshot.jpg`
-2. Create a folder in your repo called `screenshots`
-3. Add the renamed image file to that folder
-4. Commit and push changes to GitHub
-
